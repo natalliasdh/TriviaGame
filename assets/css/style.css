@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/just-waves.png);
+    background-repeat: repeat;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    max-width: 960px;
+    margin: 30px auto;
+    min-height: 100%;
+    background-color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+}
+
+#form {
+    text-align: center;
+    padding: 10px;
+}
+
+.x {
+    background-color: paleturquoise;
+    font-weight: bold;
+    padding: 5px;
+    width: 300px;
+    margin: auto;
+}
+
+button {
+    color: gray;
+    background-color: white;
+    padding: 10px;
+    border: 2px solid rgba(41, 108, 233, 0.849);
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#timer {
+    text-align: center;
+    color: red;
+    font-size: 25px; //font-weight: bold;
+}
+
+form {
+    text-align: left;
+}
+
+.btn, label {
+    padding: 5px;
+    margin: 10px;
+    border-bottom: 1px solid gray;
+}
+
+label:hover {
+    background-color: gainsboro;
+}
+
+img {
+    width: 400px;
+    padding: 10px;
+    border: 2px solid paleturquoise;
+}
+
+.y {}
